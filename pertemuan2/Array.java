@@ -1,3 +1,7 @@
+/**
+ *pogram berikut untuk menetukan nilai rata-rata menggunakan array
+*/
+
 public class Array {
     public static void main (String args[]){
         int nilai[]=new int[3];   

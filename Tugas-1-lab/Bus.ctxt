@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bus\ here.\r\n\r\n\ @author\ (Putri\ Mahela)\r\n\ (1908107010007)\r\n
+comment1.params=
+comment1.target=Bus()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.util.ArrayList\ getPenumpangBiasa()
+comment3.params=
+comment3.target=int\ getJumlahPenumpangBiasa()
+comment4.params=
+comment4.target=java.util.ArrayList\ getPenumpangPrioritas()
+comment5.params=
+comment5.target=int\ getJumlahPenumpangPrioritas()
+comment6.params=
+comment6.target=int\ getJumlahSemuaPenumpang()
+comment7.params=penumpang
+comment7.target=boolean\ naik(Penumpang)
+comment8.params=nama
+comment8.target=boolean\ turun(java.lang.String)
+comment9.params=
+comment9.target=java.util.ArrayList\ semuaPenumpang()
+numComments=11

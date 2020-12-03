@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Penumpang
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Penumpang\ here.\r\n\r\n\ @author\ (Putri\ Mahela)\r\n\ (1908107010007)\r\n
+comment1.params=nama\ umur\ hamil
+comment1.target=Penumpang(java.lang.String,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Penumpang\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=int\ getUmur()
+comment4.params=
+comment4.target=boolean\ getHamil()
+numComments=5
